@@ -1,0 +1,25 @@
+body{
+    background-color: greenyellow;
+    color:honeydew;
+}
+.content{
+    padding: 5%;
+}
+.red{
+    background-color: coral;
+    padding:4%;
+
+}
+.blue{
+    background-color:cadetblue;
+    padding:2%;
+}
+.whit{
+    background-color:honeydew ;
+    color:black;
+}
+.Condition:hover{
+    background-color:lightgray;
+    opacity:0.9;
+    
+}
